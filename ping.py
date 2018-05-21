@@ -6,7 +6,7 @@ from urllib.error import URLError, HTTPError
 
 """
 Python 3 script to check on website availability
-use no hangup to run in background i.e. nohup /path/to/ping.py &
+use no hangup to run in background i.e. nohup python3 /path/to/ping.py &
 see def server_error for instructions on setting up application specific password with 2FA
 """
 
